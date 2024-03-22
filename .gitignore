@@ -1,1 +1,2 @@
-*doc.
+# Ignore all files with extension .doc
+*.doc
